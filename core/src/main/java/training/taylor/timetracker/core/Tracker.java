@@ -1,5 +1,7 @@
 package training.taylor.timetracker.core;
 
+#introudced one change#
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import training.taylor.timetracker.core.dao.TimeEntry;
